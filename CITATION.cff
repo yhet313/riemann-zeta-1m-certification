@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this release, please cite it using the metadata below."
+title: "Rigorous Certification and Spectral Analysis of 1,000,000 Riemann Zeta Zeros"
+version: "1.0.0"
+date-released: "2026-08-18"
+type: dataset
+
+authors:
+  - family-names: "Williams"
+    given-names: "Rashad"
+
+abstract: >
+  This release presents a reproducible computational certification and numerical
+  analysis of the first 1,000,000 nontrivial Riemann zeta zero entries. The package
+  includes FLINT/Arb ball-arithmetic certification, Hilbert-space spectral modeling,
+  GUE spacing and CDF comparisons, Montgomery/GUE pair-correlation analysis,
+  spectral staircase analysis, prime-error reconstruction, zero-count sensitivity
+  ladders, figures, checksums, and a final report. This is not a proof of the
+  Riemann Hypothesis.
+
+keywords:
+  - Riemann Hypothesis
+  - Riemann zeta function
+  - zeta zeros
+  - computational number theory
+  - FLINT
+  - Arb
+  - ball arithmetic
+  - GUE
+  - random matrix theory
+  - pair correlation
+  - spectral staircase
+  - prime counting
+  - explicit formula
+  - Hilbert-Polya
+
+license: "CC-BY-4.0"
+repository-code: "https://github.com/yhet313/riemann-zeta-1m-certification"
+url: "https://github.com/yhet313/riemann-zeta-1m-certification/releases/tag/v1.0.0"
